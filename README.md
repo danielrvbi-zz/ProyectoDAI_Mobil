@@ -1,7 +1,7 @@
 # APPlicate
 ## Aplicación mobil para el proyecto de Desarrollo de apliaciones informáticas.
 
-## **Elaborado por:**
+### **Elaborado por:**
 <br>
 **Eva Rivarola** <br>
 **Daniel Rubí** <br>
