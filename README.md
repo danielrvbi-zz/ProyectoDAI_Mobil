@@ -9,4 +9,4 @@ Damián Pérez <br>
 Angel Reyes <br>
 <br> <br>
 
-EL trabajo escrito y video vienen la carpeta homónima.
+EL trabajo escrito y video vienen en la carpeta homónima.
