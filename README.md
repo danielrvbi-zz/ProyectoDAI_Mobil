@@ -3,10 +3,10 @@
 
 ### **Elaborado por:**
 <br>
-**Eva Rivarola** <br>
-**Daniel Rubí** <br>
-**Damián Pérez** <br>
-**Angel Reyes** <br>
+Eva Rivarola <br>
+Daniel Rubí <br>
+Damián Pérez <br>
+Angel Reyes <br>
 <br> <br>
 
 EL trabajo escrito y video vienen el carpeta homónima.
